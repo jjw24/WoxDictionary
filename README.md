@@ -1,3 +1,6 @@
+This repo is no longer maintained, please use https://github.com/harrynull/Flow.Launcher.Dictionary
+===================================================================================================
+
 This is a port of the Wox plugin [WoxDictionary](https://github.com/harrynull/WoxDictionary) created by Harry (@harrynull).
 
 This port is intended to be used for [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher). It will not work for Wox.
